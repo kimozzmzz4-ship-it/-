@@ -1,0 +1,6 @@
+{
+  "name": "لياقة+ | تطبيق اللياقة الذكي الأول عربياً",
+  "description": "تطبيق اللياقة الشامل: تمارين، تغذية ذكية، صيام متقطع، تتبع النوم والوزن، ومدرب ذكاء اصطناعي لتحليل الوجبات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
